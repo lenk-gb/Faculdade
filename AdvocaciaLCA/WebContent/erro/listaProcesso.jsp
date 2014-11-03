@@ -12,6 +12,7 @@
 	<body>
 		<c:import url="../components/menu.jsp"></c:import>
 		<p class="bg-warning text-warning"><c:out value="${aviso}"></c:out></p>
+		<p class="bg-succsses text-succsses"><c:out value="${aviso}"></c:out></p>
 		<p class="bg-danger text-danger"><c:out value="${erro}"></c:out></p>
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 		<script	src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
