@@ -1,4 +1,4 @@
 Faculdade
 =========
 
-Todos os trabalhos feitos na faculdade!
+Todos os trabalhos e projetos construídos na faculdade!
